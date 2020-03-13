@@ -1,0 +1,32 @@
+.blueContainer {
+  background-color: #b2ffff;
+}
+.search {
+  margin-top: 50px;
+  margin-left: 43%;
+}
+.grid-container {
+  display: grid;
+  grid-template-columns: auto auto auto;
+  padding: 50px;
+  grid-gap: 20px 20px;
+}
+
+.grid-item {
+  background-color: #ffe5f2;
+  padding: 20px;
+  font-size: 15px;
+  text-align: center;
+}
+
+.logo1 {
+  height: 50px;
+  width: 50px;
+  border-radius: 50%;
+}
+.logo {
+  height: 140px;
+  width: 140px;
+
+  border-radius: 50%;
+}
